@@ -28,14 +28,15 @@
     "angular-animate": "^1.5.7",
     "hammerjs": "^2.0.8"
   },
-  "version": "2.1.2",
-  "_release": "2.1.2",
+  "version": "3.0.0",
+  "_release": "3.0.0",
   "_resolution": {
     "type": "version",
-    "tag": "v2.1.2",
-    "commit": "b2e091cf71644c1969f63c1c69c383fab7f5cc2b"
+    "tag": "3.0.0",
+    "commit": "65175f4ecd5dcda8b309f6c5172045e52d220d51"
   },
-  "_source": "https://github.com/thatisuday/ng-image-gallery.git",
-  "_target": "~2.1.2",
-  "_originalSource": "ng-image-gallery"
+  "_source": "https://github.com/marina9568/ng-image-gallery.git",
+  "_target": "3.0.0",
+  "_originalSource": "https://github.com/marina9568/ng-image-gallery.git",
+  "_direct": true
 }
